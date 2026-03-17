@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1310" height="972" alt="b0232730251ee70d858013ad0551c41b" src="https://github.com/user-attachments/assets/ff9ded56-7d98-4e51-9ac8-6a1579ad4df8" /><img width="1310" height="972" alt="b0232730251ee70d858013ad0551c41b" src="https://github.com/user-attachments/assets/ff9ded56-7d98-4e51-9ac8-6a1579ad4df8" /><div align="center">
     <img src="assets/main.png" width="100%" alt="Banner" />
 
 
@@ -171,6 +171,7 @@
 | **第三阶段** | 模仿学习、大模型(VLA/VLN)、Sim2Real | 复现大模型导航VLN、OpenVLA、SmolVLA 等前沿项目，实现仿真或真实部署 |
 
   ## 🔥 News & Highlights
+  - **[2025-03-17]** 新增具身导航综合入门实践！仅需“半天”即可走通从感知决策再到规划控制的所有的算法：从入门具身导航到深入研究一站式
   - **[2025-03-17]** 新增视频教程：LeHome柔性衣物折叠ICRA2026比赛视频教程 http://xhslink.com/o/2oxCz0RTXcA
   - **[2025-03-16]** 新增达摩院 x Datawhale 组队学习 https://github.com/datawhalechina/every-embodied/tree/main/16-%E4%B8%93%E9%A2%98%E7%BB%84%E9%98%9F%E5%AD%A6%E4%B9%A0/01-%E8%BE%BE%E6%91%A9%E9%99%A2%E7%BB%84%E9%98%9F%E5%AD%A6%E4%B9%A0
   - **[2025-03-16]** 新增LeHome ICRA2026 比赛教程 https://github.com/datawhalechina/every-embodied/blob/main/15-Challenge%E7%AB%9E%E8%B5%9B/LeHome/README.md
