@@ -10,6 +10,8 @@
 4. 训练配置具体怎么写，输出放到哪里。
 5. 哪些大文件不要提交进教程仓库。
 
+视频教程：LeHome柔性衣物折叠ICRA2026比赛视频教程 http://xhslink.com/o/2oxCz0RTXcA
+
 
 <video src="https://assets.datawhale.cn/1090/dashboard/1773720966495/LeHome%E6%95%99%E7%A8%8B.mp4" width="100%" controls>
   您的浏览器不支持 HTML5 视频。
