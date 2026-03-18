@@ -31,11 +31,11 @@
   </p>
   <div align="center">
     <p><strong>Supported By</strong></p>
-    <img src="./assets/logo.drobo.svg" height="40" style="margin: 0 10px;"> 
+    <img src="./assets/logo.drobo.svg" height="30" style="margin: 0 10px;"> 
     <img src="./assets/zhiyuan.png" height="40" style="margin: 0 10px;"> 
     <img src="./assets/hugging-face.png" height="40" style="margin: 0 10px;">
     <img src="./assets/shanghaiailab.png" height="40" style="margin: 0 10px;"> 
-    <img src="./assets/damo1.png" height="50" style="margin: 0 10px;"> 
+    <img src="./assets/damo1.png" height="60" style="margin: 0 10px;"> 
     <img src="./assets/damo2.png" height="50" style="margin: 0 10px;"> 
   </div>
 
