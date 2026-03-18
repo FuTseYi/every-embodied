@@ -36,6 +36,8 @@
     <img src="./assets/zhiyuan.png" height="40" style="margin: 0 10px;"> 
     <img src="./assets/hugging-face.png" height="40" style="margin: 0 10px;"> 
     <img src="./assets/shanghaiailab.webp" height="40" style="margin: 0 10px;"> 
+    <img src="./assets/damo1.png" height="40" style="margin: 0 10px;"> 
+    <img src="./assets/damo2.png" height="40" style="margin: 0 10px;"> 
   </div>
 </div>
 
