@@ -14,7 +14,7 @@
   # Every-Embodied : Zero to Hero in Embodied AI
 
   <p align="center">
-    📌 <a href="https://datawhaler.feishu.cn/wiki/ANwTwcmK1iydqZkBrpRcia3nnlf">组队学习文档 (Team Learning)</a> · ✨ <a href="#learning-map">学习地图 (Learning Map)</a> · 🤖 <a href="#sota">前沿复现 (SOTA)</a>
+    📌 <a href="https://datawhale-eai.feishu.cn/wiki/QvxQwV2Qyij1NakV9IdcjTl1nJd">组队学习文档 (Team Learning)</a> · ✨ <a href="#learning-map">学习地图 (Learning Map)</a> · 🤖 <a href="#sota">前沿复现 (SOTA)</a>
   </p>
 
   <p align="center">
@@ -171,7 +171,7 @@
 | **第三阶段** | 模仿学习、大模型(VLA/VLN)、Sim2Real | 复现大模型导航VLN、OpenVLA、SmolVLA 等前沿项目，实现仿真或真实部署 |
 
   ## 🔥 News & Highlights
-  - **[2025-03-17]** 新增具身导航综合入门实践！仅需“半天”即可走通从感知决策再到规划控制的所有的算法：从入门具身导航到深入研究一站式
+  - **[2025-03-17]** 新增具身导航综合入门实践视频教程！仅需“半天”即可走通从感知决策再到规划控制的所有的算法：从入门具身导航到深入研究一站式
   - **[2025-03-17]** 新增视频教程：LeHome柔性衣物折叠ICRA2026比赛视频教程 http://xhslink.com/o/2oxCz0RTXcA
   - **[2025-03-16]** 新增达摩院 x Datawhale 组队学习 https://github.com/datawhalechina/every-embodied/tree/main/16-%E4%B8%93%E9%A2%98%E7%BB%84%E9%98%9F%E5%AD%A6%E4%B9%A0/01-%E8%BE%BE%E6%91%A9%E9%99%A2%E7%BB%84%E9%98%9F%E5%AD%A6%E4%B9%A0
   - **[2025-03-16]** 新增LeHome ICRA2026 比赛教程 https://github.com/datawhalechina/every-embodied/blob/main/15-Challenge%E7%AB%9E%E8%B5%9B/LeHome/README.md
@@ -213,6 +213,10 @@
   Mujoco机械臂数据采集 https://www.bilibili.com/video/BV1DNAbzpE6Z
 
   算力自由平台复刻ETPNav连续环境导航算法视频教程 http://xhslink.com/o/8t08X6dROt5
+
+  具身导航入门到实践！仅需“半天”即可走通从感知决策再到规划控制的所有的算法：从入门具身导航到深入研究一站式
+  - Part 1 环境基础与安装: http://xhslink.com/o/9KuYgWrRpaE
+  - Part 2 代码演示讲解与分析: http://xhslink.com/o/2xY3fit6cmj
 
   
 
@@ -307,7 +311,7 @@
   <p>扫描下方二维码关注公众号：Datawhale，回复“具身智能”加入交流群</p>
   <img src="https://raw.githubusercontent.com/datawhalechina/pumpkin-book/master/res/qrcode.jpeg" width="180" height="180">
   <p>
-    <a href="https://datawhaler.feishu.cn/wiki/ANwTwcmK1iydqZkBrpRcia3nnlf">📚 飞书知识库</a> | 
+    <a href="https://datawhale-eai.feishu.cn/wiki/QvxQwV2Qyij1NakV9IdcjTl1nJd">📚 飞书知识库</a> | 
     <a href="https://www.datawhale.cn/learn/summary/258">🌐 官方网站</a>
   </p>
 
