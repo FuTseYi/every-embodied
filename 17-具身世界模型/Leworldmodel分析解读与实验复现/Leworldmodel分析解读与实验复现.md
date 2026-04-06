@@ -298,11 +298,11 @@ evaluation_time: 179.38973236083984 seconds
 
 可以看到，tworoom简单导航任务的成功率较高
 
-<video src="assets/tworoom1.mp4">
-</video>
+<p align="center">
+  <img src="assets/tworoom1.gif" width="45%" /> &nbsp &nbsp &nbsp
+  <img src="assets/tworoom2.gif" width="45%" />
+</p>
 
-<video src="assets/tworoom2.mp4">
-</video>
 
 ### cube效果展示
 
@@ -336,11 +336,10 @@ def _compute_successes(self):
 
 只要方块位置对就算成功，其实有时候机械臂的状态也是成功率判断的一个标准，因此可能会有些偏差。
 
-<video src="assets/cube1.mp4">
-</video>
-
-<video src="assets/cube2.mp4">
-</video>
+<p align="center">
+  <img src="assets/cube1.gif" width="45%" /> &nbsp &nbsp &nbsp
+  <img src="assets/cube2.gif" width="45%" />
+</p>
 
 
 
