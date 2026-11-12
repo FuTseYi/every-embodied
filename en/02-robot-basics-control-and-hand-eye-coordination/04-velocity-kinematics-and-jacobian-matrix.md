@@ -8,7 +8,7 @@ Review machine-translated technical claims before relying on them.
 
 In the previous documents, we learned about **position** (kinematics) and **force/moment** (dynamics).
 
-**Jacobian Matrix ($J$)** is called a "bridge" because it connects these two fields at the differential level:
+The **Jacobian Matrix ($J$)** is called a "bridge" because it connects these two fields at the differential level:
 
 1. **Connecting the joint space and the Cartesian space**: It describes how the joint velocity $\dot{q}$ is mapped to the linear and angular velocities of the end effector $v, \omega$.
 
@@ -21,13 +21,13 @@ In the previous documents, we learned about **position** (kinematics) and **forc
 
    $$\tau = J^T(q) F$$
 
-Without a Jacobian matrix, we cannot reverse-engineer the joint rotation speed based on the desired velocity at the end, nor can we calculate the required torque for the joint motor based on the load grasped by the end.
+Without a Jacobian matrix, we cannot infer the joint rotation speed based on the desired velocity at the end, nor can we calculate the torque required for the joint motor based on the load grasped by the end.
 
 #### 2. Core Definitions
 
 For a robot with $n$ degrees of freedom, the joint variable is $q = [q_1, \dots, q_n]^T$. The end pose (position and pose) can be written as $x = f(q)$.
 
-The Jacobian matrix is defined as a matrix of partial derivatives:
+The Jacobian matrix is defined as a partial derivative matrix:
 
 $$J(q) = \frac{\partial f}{\partial q} = \begin{bmatrix} \frac{\partial x}{\partial q_1} & \cdots & \frac{\partial x}{\partial q_n} \\ \vdots & \ddots & \vdots \\ \end{bmatrix}$$
 
@@ -59,7 +59,7 @@ graph LR
 
 #### 4. Python code verification: Computing the Jacobian of a 2-link robotic arm
 
-We use the `sympy` derivation method to automatically generate the complete pose Jacobian of a planar 2R robotic arm $3 \times 2$.
+We use `sympy` Symbol derivation for generating the complete pose Jacobians of a planar 2R robotic arm$3 \times 2$）。
 
 
 
